@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddBilling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddMedicalHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddNewEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddNewSupply.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddNewTemplate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddNewUserAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddPatientAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddProcedure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSMSConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Appointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppointmentInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppointmentNewPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppointmentOldPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillingHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonAddAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonAddDentalChart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonAddMedicalHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddDentalChart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonAppoointmentHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonPrescription.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonProcedure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonTransactionHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ButtonUploadDocu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Calendar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConnectionTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentalChart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentalChartFullScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentistDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Discount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Document.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DocumentFullScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditBilling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditDiscount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditEmployeeDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditMedicalHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditPatientAddress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditPatientRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProcedure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfileAddress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfileBasic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfilePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfileUsername.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditSMSConfiguration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditSupply.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPasswordSecurityQuestion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneratedReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddNewPatient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedicalInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Messages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NextAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientAppointmentHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientMainScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientRecordScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prescription.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrescriptionRecords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PreviewDocuments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PreviewXray.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Procedure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileAccountInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileAddressInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileBasicInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReasonForCancel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reschedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecurityQuestions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SMSConfiguration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Treatment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TreatmentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Verification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewAppointmentvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewEmployeeDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSupply.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewTemplate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewUserInformation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

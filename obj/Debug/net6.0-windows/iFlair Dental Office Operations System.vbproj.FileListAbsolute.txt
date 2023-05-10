@@ -1,0 +1,971 @@
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.exe
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll.config
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.deps.json
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.runtimeconfig.json
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Twilio.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\bin\Debug\net6.0-windows\office.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.AssemblyReference.cache
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.ResolveComReference.cache
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AccountProfile.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddAppointment.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddBilling.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDentalChart.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDiscount.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddMedicalHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewEmployee.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewPatient.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewSupply.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewTemplate.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewUserAccount.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddPatientAppointment.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddProcedure.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddSMSConfig.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Appointment.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentInventory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentNewPatient.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentOldPatient.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Billing.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.BillingHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddAppointment.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddDentalChart.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddMedicalHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAppoointmentHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonPrescription.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonProcedure.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransaction.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransactionHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonUploadDocu.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Calendar.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ConnectionTest.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Dashboard.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChart.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChartFullScreen.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentistDetails.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Discount.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Document.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DocumentFullScreen.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditAppointment.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditBilling.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditDiscount.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditEmployeeDetails.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditInventory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditMedicalHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientAddress.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientRecord.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProcedure.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileAddress.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileBasic.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfilePassword.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileUsername.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSMSConfiguration.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSupply.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Employee.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPassword.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPasswordSecurityQuestion.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Form1.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.GeneratedReport.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.HomeScreen.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Inventory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryList.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.LoginAccount.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.MedicalInformation.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Messages.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Resources.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.NextAppointment.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientAppointmentHistory.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientMainScreen.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientProfile.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientRecordScreen.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientTransaction.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Prescription.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PrescriptionRecords.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewDocuments.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewXray.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Procedure.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAccountInfo.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAddressInfo.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileBasicInfo.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ReasonForCancel.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Reschedule.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ResetPassword.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SalesReport.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SecurityQuestions.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SMSConfiguration.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Treatment.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.TreatmentForm.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserInformation.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserLogs.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Verification.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewAppointmentvb.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewEmployeeDetails.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewSupply.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewTemplate.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewUserInformation.resources
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.GenerateResource.cache
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfoInputs.cache
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfo.vb
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CopyComplete
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\refint\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.genruntimeconfig.cache
+C:\Users\Mac\Desktop\Flair_Dental_FEB-15\obj\Debug\net6.0-windows\ref\iFlair Dental Office Operations System.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.exe
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll.config
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.deps.json
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\bin\Debug\net6.0-windows\Twilio.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.ResolveComReference.cache
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AccountProfile.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddAppointment.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddBilling.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDentalChart.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDiscount.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddMedicalHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewEmployee.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewPatient.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewSupply.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewTemplate.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewUserAccount.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddPatientAppointment.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddProcedure.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddSMSConfig.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Appointment.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentInventory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentNewPatient.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentOldPatient.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Billing.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.BillingHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddAppointment.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddDentalChart.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddMedicalHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAppoointmentHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonPrescription.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonProcedure.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransaction.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransactionHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonUploadDocu.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Calendar.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ConnectionTest.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Dashboard.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChart.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChartFullScreen.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentistDetails.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Discount.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Document.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DocumentFullScreen.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditAppointment.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditBilling.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditDiscount.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditEmployeeDetails.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditInventory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditMedicalHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientAddress.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientRecord.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProcedure.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileAddress.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileBasic.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfilePassword.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileUsername.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSMSConfiguration.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSupply.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Employee.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPassword.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPasswordSecurityQuestion.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.GeneratedReport.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.HomeScreen.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Inventory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryList.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.LoginAccount.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.MedicalInformation.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Messages.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.NextAppointment.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientAppointmentHistory.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientMainScreen.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientProfile.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientRecordScreen.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientTransaction.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Prescription.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PrescriptionRecords.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewDocuments.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewXray.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Procedure.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAccountInfo.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAddressInfo.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileBasicInfo.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ReasonForCancel.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Reschedule.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ResetPassword.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SalesReport.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SecurityQuestions.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SMSConfiguration.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Treatment.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.TreatmentForm.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserInformation.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserLogs.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Verification.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewAppointmentvb.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewEmployeeDetails.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewSupply.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewTemplate.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewUserInformation.resources
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\refint\iFlair Dental Office Operations System.dll
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\iFlair\obj\Debug\net6.0-windows\ref\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.exe
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll.config
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.deps.json
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.runtimeconfig.json
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Twilio.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\Users\Mac\Desktop\iFlair\bin\Debug\net6.0-windows\office.dll
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.AssemblyReference.cache
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.ResolveComReference.cache
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AccountProfile.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddAppointment.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddBilling.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDiscount.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewEmployee.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewPatient.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewSupply.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewTemplate.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewUserAccount.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddPatientAppointment.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddProcedure.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddSMSConfig.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Appointment.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentInventory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentNewPatient.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentOldPatient.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Billing.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.BillingHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddAppointment.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAppoointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonPrescription.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonProcedure.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransaction.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransactionHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonUploadDocu.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Calendar.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ConnectionTest.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Dashboard.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChart.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChartFullScreen.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentistDetails.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Discount.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Document.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DocumentFullScreen.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditAppointment.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditBilling.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditDiscount.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditInventory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientAddress.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientRecord.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProcedure.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileAddress.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileBasic.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfilePassword.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileUsername.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSupply.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Employee.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPassword.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPasswordSecurityQuestion.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Form1.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.GeneratedReport.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.HomeScreen.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Inventory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryList.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.LoginAccount.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.MedicalInformation.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Messages.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Resources.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.NextAppointment.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientAppointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientMainScreen.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientProfile.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientRecordScreen.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientTransaction.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Prescription.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PrescriptionRecords.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewDocuments.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewXray.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Procedure.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAccountInfo.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAddressInfo.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileBasicInfo.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ReasonForCancel.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Reschedule.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ResetPassword.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SalesReport.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SecurityQuestions.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Treatment.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.TreatmentForm.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserInformation.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserLogs.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Verification.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewAppointmentvb.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewSupply.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewTemplate.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewUserInformation.resources
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.GenerateResource.cache
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfoInputs.cache
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfo.vb
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CopyComplete
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\refint\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.genruntimeconfig.cache
+C:\Users\Mac\Desktop\iFlair\obj\Debug\net6.0-windows\ref\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.exe
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll.config
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.deps.json
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.runtimeconfig.json
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Twilio.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\bin\Debug\net6.0-windows\office.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.AssemblyReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.ResolveComReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AccountProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewEmployee.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewUserAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddPatientAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddSMSConfig.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Appointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentOldPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Billing.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.BillingHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAppoointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonPrescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransactionHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonUploadDocu.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Calendar.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ConnectionTest.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Dashboard.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChartFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentistDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Discount.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Document.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DocumentFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientRecord.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileBasic.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfilePassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileUsername.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Employee.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPasswordSecurityQuestion.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Form1.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.GeneratedReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.HomeScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Inventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryList.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.LoginAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.MedicalInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Messages.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Resources.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.NextAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientAppointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientMainScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientRecordScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Prescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PrescriptionRecords.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewDocuments.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewXray.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Procedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAccountInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAddressInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileBasicInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ReasonForCancel.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Reschedule.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ResetPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SalesReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SecurityQuestions.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Treatment.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.TreatmentForm.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserLogs.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Verification.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewAppointmentvb.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewUserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.GenerateResource.cache
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfoInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfo.vb
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CopyComplete
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\refint\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.genruntimeconfig.cache
+C:\Users\Mac\Desktop\iFlair FEB 22\obj\Debug\net6.0-windows\ref\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.exe
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll.config
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.deps.json
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.runtimeconfig.json
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Twilio.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\bin\Debug\net6.0-windows\office.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.AssemblyReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.ResolveComReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AccountProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewEmployee.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewUserAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddPatientAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddSMSConfig.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Appointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentOldPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Billing.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.BillingHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAppoointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonPrescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransactionHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonUploadDocu.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Calendar.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ConnectionTest.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Dashboard.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChartFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentistDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Discount.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Document.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DocumentFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientRecord.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileBasic.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfilePassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileUsername.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Employee.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPasswordSecurityQuestion.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Form1.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.GeneratedReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.HomeScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Inventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryList.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.LoginAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.MedicalInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Messages.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Resources.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.NextAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientAppointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientMainScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientRecordScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Prescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PrescriptionRecords.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewDocuments.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewXray.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Procedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAccountInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAddressInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileBasicInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ReasonForCancel.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Reschedule.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ResetPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SalesReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SecurityQuestions.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Treatment.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.TreatmentForm.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserLogs.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Verification.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewAppointmentvb.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewUserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.GenerateResource.cache
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfoInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfo.vb
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CopyComplete
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\refint\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.genruntimeconfig.cache
+C:\Users\Mac\Desktop\iFlair FEB 23 with db\obj\Debug\net6.0-windows\ref\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.exe
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll.config
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.deps.json
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.runtimeconfig.json
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Twilio.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\bin\Debug\net6.0-windows\office.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.AssemblyReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.ResolveComReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AccountProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewEmployee.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewUserAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddPatientAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddSMSConfig.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Appointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentOldPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Billing.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.BillingHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAppoointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonPrescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransactionHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonUploadDocu.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Calendar.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ConnectionTest.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Dashboard.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChartFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentistDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Discount.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Document.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DocumentFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientRecord.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileBasic.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfilePassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileUsername.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Employee.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPasswordSecurityQuestion.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Form1.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.GeneratedReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.HomeScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Inventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryList.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.LoginAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.MedicalInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Messages.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Resources.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.NextAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientAppointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientMainScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientRecordScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Prescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PrescriptionRecords.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewDocuments.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewXray.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Procedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAccountInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAddressInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileBasicInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ReasonForCancel.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Reschedule.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ResetPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SalesReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SecurityQuestions.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Treatment.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.TreatmentForm.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserLogs.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Verification.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewAppointmentvb.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewUserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.GenerateResource.cache
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfoInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfo.vb
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CopyComplete
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\refint\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.genruntimeconfig.cache
+C:\Users\Mac\Desktop\iFlair FEB 25\obj\Debug\net6.0-windows\ref\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.exe
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll.config
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.deps.json
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.runtimeconfig.json
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\comerr64.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\gssapi64.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\k5sprt64.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\krb5_64.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\krbcc64.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\MySqlBackup.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Twilio.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\Microsoft.Vbe.Interop.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\bin\Debug\net6.0-windows\office.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.AssemblyReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.ResolveComReference.cache
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AccountProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewEmployee.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddNewUserAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddPatientAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AddSMSConfig.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Appointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentNewPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.AppointmentOldPatient.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Billing.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.BillingHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddDentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAddMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonAppoointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonPrescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonTransactionHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ButtonUploadDocu.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Calendar.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ConnectionTest.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Dashboard.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChart.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentalChartFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DentistDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Discount.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Document.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.DocumentFullScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditBilling.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditDiscount.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditInventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditMedicalHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditPatientRecord.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProcedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileAddress.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileBasic.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfilePassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditProfileUsername.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.EditSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Employee.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ForgotPasswordSecurityQuestion.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Form1.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.GeneratedReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.HomeScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Inventory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.InventoryList.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.LoginAccount.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.MedicalInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Messages.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Resources.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.NextAppointment.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientAppointmentHistory.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientMainScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientProfile.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientRecordScreen.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PatientTransaction.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Prescription.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PrescriptionRecords.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewDocuments.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.PreviewXray.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Procedure.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAccountInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileAddressInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ProfileBasicInfo.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ReasonForCancel.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Reschedule.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ResetPassword.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SalesReport.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SecurityQuestions.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.SMSConfiguration.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Treatment.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.TreatmentForm.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.UserLogs.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.Verification.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewAppointmentvb.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewEmployeeDetails.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewSupply.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewTemplate.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair_Dental_Office_Operations_System.ViewUserInformation.resources
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.GenerateResource.cache
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfoInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.AssemblyInfo.vb
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.vbproj.CopyComplete
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\refint\iFlair Dental Office Operations System.dll
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.pdb
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\iFlair Dental Office Operations System.genruntimeconfig.cache
+C:\Users\Mac\Desktop\iFlair FEB 26\obj\Debug\net6.0-windows\ref\iFlair Dental Office Operations System.dll

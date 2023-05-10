@@ -1,0 +1,10 @@
+backing up
+	in cmd
+		mysqldump -u root -p --triggers --routines --single-transaction dbdentalclinic > C:\Users\...\Desktop\dbdentalclinic.sql
+
+Importing 
+	in cmd
+		mysql -u root-p
+		CREATE DATABASE dbdentalclinic;
+		exit
+		mysql -u root -p dbdentalclinic < C:\Users\...\Desktop\samplejan6.sql

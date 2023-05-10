@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="userId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">041801</Value>
+    </Setting>
+    <Setting Name="dbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbdentalclinic</Value>
+    </Setting>
+    <Setting Name="AccountSID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ACb5a75802fafd69bfff40c18e95153d0c</Value>
+    </Setting>
+    <Setting Name="AuthToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">314e14a39bf0250afb30ad4aace7e8de</Value>
+    </Setting>
+    <Setting Name="TwillioNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)">+19066614175</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
